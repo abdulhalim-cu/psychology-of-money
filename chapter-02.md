@@ -1,7 +1,5 @@
 ### **Chapter 2: Luck & Risk**
 
-#### **The Main Idea in Simple Terms**
-
 Think of Luck and Risk as invisible twins. They are both powerful forces in our lives that are impossible to measure, but they shape every single financial outcome.
 
 *   **Luck:** When things go well for you because of factors you didn't control.
