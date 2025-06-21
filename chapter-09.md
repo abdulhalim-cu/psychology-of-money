@@ -37,3 +37,5 @@ This is a complete mindset shift that protects you from one of the biggest finan
 3.  **Embrace "Stealth Wealth."** Find satisfaction in the fact that your net worth is growing, even if no one else can see it. Remember what you are buying with that hidden wealth: freedom, security, and control over your time (Chapter 7). These are things far more valuable than the fleeting admiration you might get from a new car (Chapter 8). The person who is truly winning is the one who doesn't need to show it.
 
 4.  **The Goal is Not to be "Rich," it's to be "Wealthy."** When you frame your goal this way, your behavior naturally changes. Instead of thinking, "How can I afford that?", you start thinking, "How much of my income can I keep for my future self?" This simple change in your internal dialogue will guide you toward decisions that build lasting wealth, not just the appearance of it.
+
+In short: Stop equating richness (visible spending) with wealth (invisible savings). The former buys you stuff to show people, but the latter—the money you don't spend—is what buys you freedom and options. Building true wealth requires you to value what is unseen over what is seen.
