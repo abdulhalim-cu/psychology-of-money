@@ -1,7 +1,5 @@
 ### **Chapter 1: No One's Crazy**
 
-#### **The Main Idea in Simple Terms**
-
 Have you ever looked at how someone else spends or invests their money and thought, "Are they crazy? That's such a stupid decision!"
 
 The core message of this chapter is that **no one is crazy.** People from different generations, with different parents, from different countries, and with different incomes have had vastly different experiences with money. What seems like a crazy financial decision to you makes perfect sense to them, based on the unique "money movie" they've seen in their own life.
