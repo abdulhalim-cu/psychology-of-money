@@ -1,7 +1,5 @@
 ### **Chapter 19: All Together Now**
 
-#### **The Main Idea in Simple Terms**
-
 This chapter is not a new lesson. It is the grand summary—the "cheat sheet" for the entire book. Morgan Housel steps back and distills all the stories and concepts we've discussed into a handful of simple, actionable, and timeless rules for you to live by.
 
 Think of it as the core financial philosophy you can write down on a single piece of paper and use to guide every financial decision you make for the rest of your life. It's about taking the psychology and applying it directly.
