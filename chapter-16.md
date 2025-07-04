@@ -1,7 +1,5 @@
 ### **Chapter 16: You & Me**
 
-#### **The Main Idea in Simple Terms**
-
 Imagine you are sitting down to play a board game. You are playing Monopoly, a slow game of strategy that takes hours to finish. But the person across from you is playing Chess, a game of intense, short-term tactics. You are both moving pieces on a board, but you are playing completely different games with different goals, different timeframes, and different rules.
 
 The main idea of this chapter is that **investors in the market are all playing different games.** The problem is, we often take our financial cues from people who are playing a different game than we are. A short-term day trader's actions will influence the stock price that a long-term retirement investor sees, which can lead to confusion and bad decisions if the long-term investor doesn't realize what's happening.
