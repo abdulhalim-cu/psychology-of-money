@@ -1,4 +1,3 @@
-```markdown
 # The Psychology of Money - Chapter Summaries
 
 This repository contains simple, easy-to-understand summaries of each chapter from Morgan Housel's brilliant book, "The Psychology of Money."
@@ -72,4 +71,3 @@ The goal is to distill the key lessons from each chapter into actionable insight
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
