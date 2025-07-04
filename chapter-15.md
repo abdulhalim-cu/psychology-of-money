@@ -1,7 +1,5 @@
 ### **Chapter 15: Nothing's Free**
 
-#### **The Main Idea in Simple Terms**
-
 Everything in life has a price. For a car, the price is written on a sticker. But for many important things, the price isn't a dollar amount.
 
 When it comes to investing, the fantastic long-term returns of the stock market also have a price. But that price isn't paid in dollars and cents. **The price of successful investing is fear, doubt, uncertainty, volatility, and regret.** These are not fines for doing something wrong; they are the normal, unavoidable *fees* you have to pay to earn good returns.
