@@ -1,7 +1,5 @@
 ### **Chapter 18: When You'll Believe Anything**
 
-#### **The Main Idea in Simple Terms**
-
 Imagine you are lost in a dark forest. You are scared and confused. Suddenly, someone hands you a map. The map might be completely wrong, but at that moment, it feels better than having nothing at all. It gives you a sense of direction and a story to follow.
 
 The main idea of this chapter is that **we are drawn to stories and narratives, especially when faced with uncertainty and things we don't understand.** Our brains prefer a simple, compelling story—even if it's flawed—over a set of complicated, cold, hard facts. The more you *want* something to be true (like getting rich quick or avoiding a loss), the more likely you are to believe a story that promises that outcome.
