@@ -50,9 +50,24 @@ The goal is to distill the key lessons from each chapter into actionable insight
 14. **[Chapter 14: You'll Change](chapter-14.md)**
     *   *Summary:* Avoid extreme long-term plans because you are terrible at predicting what your future self will want. Prioritize flexibility over locking yourself in.
 
-*(More chapter summaries will be added as they are completed.)*
+15. **[Chapter 15: Nothing's Free](chapter-15.md)**
+    *   *Summary:* Everything has a price. For investing, the price is volatility and fear. See it as a fee for entry, not a fine for doing something wrong.
+
+16. **[Chapter 16: You & Me](chapter-16.md)**
+    *   *Summary:* Be aware that investors are playing different games with different time horizons. Don't be swayed by the actions of those playing a different game than you.
+
+17. **[Chapter 17: The Seduction of Pessimism](chapter-17.md)**
+    *   *Summary:* Pessimism sounds smarter and more urgent than optimism, but optimism is the correct long-term mindset for historical growth.
+
+18. **[Chapter 18: When You'll Believe Anything](chapter-18.md)**
+    *   *Summary:* We are drawn to simple stories to make sense of uncertainty. The more you want something to be true, the more likely you are to believe a flawed narrative about it.
+
+19. **[Chapter 19: All Together Now](chapter-19.md)**
+    *   *Summary:* A summary of the book's key principles: be humble, have less ego, define your game, and prioritize what lets you sleep at night.
+
+20. **[Chapter 20: Confessions](chapter-20.md)**
+    *   *Summary:* The author shares his own financial plan, which prioritizes high savings, flexibility, and peace of mind over rational optimization.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
