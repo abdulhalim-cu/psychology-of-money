@@ -1,7 +1,5 @@
 ### **Chapter 17: The Seduction of Pessimism**
 
-#### **The Main Idea in Simple Terms**
-
 Think about two people giving you advice.
 
 *   **Person A (The Optimist):** "Don't worry, over the next 20 years, the economy will grow, things will get better, and your investments will likely do very well."
